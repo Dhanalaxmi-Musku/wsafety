@@ -1,0 +1,7 @@
+1. Location-Based Notifications: Provide notifications based on the user's current location, such as cautionary advice for known high-crime areas. ( Demo Data ) ( Experimental)
+ 2. Panic Button: The application must feature a prominently placed panic button on the main screen for users to swiftly signal emergency contacts during dangerous situations. (experimental)
+3. Real-time GPS Tracking: Once confirmed, the app must initiate real-time GPS location tracking of the user and continuously update the location.
+4. Alert Message: The application should send an alert message to pre-defined emergency contacts, including the user's name and current location. (Mail Service will be Provided)
+5. Audio/Video Recording: The application should allow for audio or video recording during emergencies, with the option to send it to emergency contacts.
+6. Continuous Location Updates: The app should continuously update the user's location to ensure emergency contacts stay informed about the user's movements. (mail service will be provide)
+7. Safe Confirmation Message: Once the emergency situation concludes, emergency contacts should receive a confirmation message, providing assurance that the user is safe. This one??
